@@ -6,7 +6,7 @@
 	<groupId>au.csiro</groupId>
 	<artifactId>fhir-claml</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 
 	<name>FHIR-ClaML</name>
 	<description>Transforms ClaML files into FHIR CodeSystems</description>
